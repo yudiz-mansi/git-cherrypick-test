@@ -22,5 +22,7 @@
     </head>
     <body class="antialiased">
        Branch A commit
+       AND
+       Branch b commit
     </body>
 </html>
