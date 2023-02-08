@@ -21,7 +21,10 @@
         </style>
     </head>
     <body class="antialiased">
+<<<<<<< HEAD
 
+=======
+>>>>>>> ac92645 (branch c changes)
        Branch b commit
        And Branch C
     </body>
