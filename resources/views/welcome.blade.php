@@ -21,8 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-       Branch A commit
-       AND
        Branch b commit
+       And Branch C
     </body>
 </html>
